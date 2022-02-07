@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For OneWire
+#######################################
+
+#######################################
+# DataTypes (KEYWORD1)
+#######################################
+
+APGRD004	KEYWORD1
+apgrd004	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+set_color	KEYWORD2
+set_zones	KEYWORD2
+set_dim_down	KEYWORD2
+set_ramp_up	KEYWORD2
+status_request	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+BIT_RATE	LITERAL1
